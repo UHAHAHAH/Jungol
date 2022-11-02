@@ -5,11 +5,11 @@ public class Main {
 		int num1 = 55;
 		int num2 = 10;
 		
-		System.out.println("55 - 10 = "+ (num1-num2));
+		System.out.println(num1 + " - " + num2 +" = "+(num1-num2));
 		
 		num1 = 2008;
 		num2 = 1999;
-		System.out.println("2008 - 1999 = "+ (num1-num2));
+		System.out.println(num1 + " - " + num2 +" = "+ (num1-num2));
 		
 	}
 }
