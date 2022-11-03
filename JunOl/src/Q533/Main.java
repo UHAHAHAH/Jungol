@@ -1,5 +1,7 @@
 package Q533;
 
+/* 선생님 풀이와 동일 */
+
 import java.util.Scanner;
 
 public class Main {
