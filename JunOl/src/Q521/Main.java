@@ -21,3 +21,20 @@ public class Main {
 		System.out.println(sum);
 	}
 }
+
+///* 선생님 문제풀이 */
+//
+//import java.util.Scanner;
+//
+//public class Main {
+//	public static void main(String[] args) {
+//		Scanner scan = new Scanner(System.in);
+//		int inp1 = scan.nextInt();
+//		int inp2 = scan.nextInt();
+//		scan.close();
+//
+//		int res = inp1++ * --inp2;
+//
+//		System.out.print(inp1 + " " + inp2 + " " + res);
+//	}
+//}
