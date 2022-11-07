@@ -26,7 +26,7 @@ public class Main {
 //		scan.close();
 //
 //		for (int i = 0; i < 2; i++) {
-//			System.out.print(inp + inp);
+//			System.out.print(inp);
 //		}
 //	}
 //}
