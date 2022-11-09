@@ -14,8 +14,6 @@ public class Main {
 		System.out.printf("%.3f\n", num1);
 		System.out.printf("%.3f\n", num2);
 		System.out.printf("%.3f\n", num3);
-		
-
 	}
 
 }
