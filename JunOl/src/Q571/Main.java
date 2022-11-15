@@ -19,6 +19,7 @@ public class Main {
 	}
 }
 
+
 /* 선생님 문제풀이 */
 
 //public class Main{
