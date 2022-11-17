@@ -19,7 +19,7 @@ public class Main {
 	}
 }
 
-/* 다른풀이 */
+/* 다른 풀이 */
 //public class Main {
 //	int result() {
 //		Scanner sc = new Scanner(System.in);
@@ -41,5 +41,25 @@ public class Main {
 //	public static void main(String[] args) {
 //		Main Three = new Main();
 //		Three.result();
+//	}
+//}
+
+/* 선생님 문제풀이 */
+//public class Main {
+//	public static void main(String[] args) {
+//		Scanner sc = new Scanner(System.in);
+//
+//		while (true) {
+//			int inp = sc.nextInt();
+//
+//			if (inp == -1) {
+//				break;
+//			} else if (inp % 3 == 0) {
+//				int ret = inp / 3;
+//				System.out.println(ret);
+//			} else if (inp % 3 != 0) {
+//			}
+//		}
+//		sc.close();
 //	}
 //}
